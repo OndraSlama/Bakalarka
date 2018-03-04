@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ahoj jak se mas poprvı.
+=======
+ahoj jak se mas podruhı.
+>>>>>>> parent of 1499def... abc
